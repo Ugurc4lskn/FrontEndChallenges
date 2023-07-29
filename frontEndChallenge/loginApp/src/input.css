@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Dai+Banna+SIL:wght@300&display=swap');
+
+@layer components {
+    .input {
+        @apply w-full bg-transparent my-2 border border-gray-700 p-2 rounded-md hover:border-gray-800 text-gray-50
+    }
+
+    .btn {
+        @apply border my-3 p-1 text-gray-900 rounded-md bg-gray-200 border-gray-600 drop-shadow-sm  py-2 
+    }
+}

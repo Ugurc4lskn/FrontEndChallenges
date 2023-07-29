@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .input {
+        @apply bg-[#333] w-full my-2 p-3 rounded-sm  text-gray-200 placeholder-slate-300 placeholder-opacity-50
+    }
+
+    .btn {
+        @apply bg-[#e50914] text-white py-3 rounded-sm mt-6
+    }
+
+    .b-text {
+        @apply text-[#b3b3b3] text-sm
+
+    }
+
+    .a-tag {
+        @apply inline-block text-sm text-[#737373] hover:underline
+    }
+}

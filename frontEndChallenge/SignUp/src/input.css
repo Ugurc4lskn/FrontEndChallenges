@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+
+@layer components {
+    .input {
+      @apply rounded-md mx-10 w-full p-2 mt-4  text-sm font-medium placeholder-gray-700 pl-4
+      hover:bg-transparent hover:border hover:border-gray-900 hover:text-white
+    }
+
+    .btn {
+        @apply text-white mt-5 bg-[#8589E4] w-full rounded-md py-1 shadow-sm shadow-blue-500 font-medium hover:outline hover:outline-gray-800 hover:bg-transparent
+    }
+  }

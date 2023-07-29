@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .btn { 
+        @apply text-white mr-2 border p-3 rounded-md px-4 hover:bg-[#922589] hover:border-[#6d1663] duration-300 bg-gradient-to-r from-[#121212] via-[#202020] to-[#303030] border-slate-500 border-x-2 border-b-slate-500 
+}}
