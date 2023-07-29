@@ -57,14 +57,14 @@ Bu repo içerisinde devchallenges.io ve codewell.cc sitelerinde bulunan tasarım
 
 ## Login Page
 
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2023/07/29/r19yvp.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/rfq5xay.png)
 
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2023/07/29/r19C9y.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ny768f5.png)
 
 ## Netflix Login Clon
 
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2023/07/29/r195Fn.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/5djgfz3.png)
 
-![Logo](https://s3-alpha.figma.com/hub/file/2603959525/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png)
+![Logo](https://i.hizliresim.com/8vav413.png)
 
     
