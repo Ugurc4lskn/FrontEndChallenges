@@ -65,7 +65,6 @@ Bu repo içerisinde devchallenges.io ve codewell.cc sitelerinde bulunan tasarım
 
 ![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2023/07/29/r195Fn.png)
 
-
 ![Logo](https://s3-alpha.figma.com/hub/file/2603959525/8e909c88-4e83-4af4-b5b2-4a50a9b571f7-cover.png)
 
     
